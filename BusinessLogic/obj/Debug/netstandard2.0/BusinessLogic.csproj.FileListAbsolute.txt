@@ -1,0 +1,14 @@
+D:\Documentos\ORT\DA2\Obligatorio 1\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+D:\Documentos\ORT\DA2\Obligatorio 1\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+D:\Documentos\ORT\DA2\Obligatorio 1\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+D:\Documentos\ORT\DA2\Obligatorio 1\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogicInterface.dll
+D:\Documentos\ORT\DA2\Obligatorio 1\BusinessLogic\bin\Debug\netstandard2.0\DataAccessInterface.dll
+D:\Documentos\ORT\DA2\Obligatorio 1\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogicInterface.pdb
+D:\Documentos\ORT\DA2\Obligatorio 1\BusinessLogic\bin\Debug\netstandard2.0\DataAccessInterface.pdb
+D:\Documentos\ORT\DA2\Obligatorio 1\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csprojAssemblyReference.cache
+D:\Documentos\ORT\DA2\Obligatorio 1\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Documentos\ORT\DA2\Obligatorio 1\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+D:\Documentos\ORT\DA2\Obligatorio 1\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Documentos\ORT\DA2\Obligatorio 1\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete
+D:\Documentos\ORT\DA2\Obligatorio 1\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+D:\Documentos\ORT\DA2\Obligatorio 1\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb

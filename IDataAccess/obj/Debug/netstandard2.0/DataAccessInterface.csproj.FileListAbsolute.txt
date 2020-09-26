@@ -1,0 +1,9 @@
+D:\Documentos\ORT\DA2\Obligatorio 1\IDataAccess\bin\Debug\netstandard2.0\DataAccessInterface.deps.json
+D:\Documentos\ORT\DA2\Obligatorio 1\IDataAccess\bin\Debug\netstandard2.0\DataAccessInterface.dll
+D:\Documentos\ORT\DA2\Obligatorio 1\IDataAccess\bin\Debug\netstandard2.0\DataAccessInterface.pdb
+D:\Documentos\ORT\DA2\Obligatorio 1\IDataAccess\obj\Debug\netstandard2.0\DataAccessInterface.csprojAssemblyReference.cache
+D:\Documentos\ORT\DA2\Obligatorio 1\IDataAccess\obj\Debug\netstandard2.0\DataAccessInterface.AssemblyInfoInputs.cache
+D:\Documentos\ORT\DA2\Obligatorio 1\IDataAccess\obj\Debug\netstandard2.0\DataAccessInterface.AssemblyInfo.cs
+D:\Documentos\ORT\DA2\Obligatorio 1\IDataAccess\obj\Debug\netstandard2.0\DataAccessInterface.csproj.CoreCompileInputs.cache
+D:\Documentos\ORT\DA2\Obligatorio 1\IDataAccess\obj\Debug\netstandard2.0\DataAccessInterface.dll
+D:\Documentos\ORT\DA2\Obligatorio 1\IDataAccess\obj\Debug\netstandard2.0\DataAccessInterface.pdb
